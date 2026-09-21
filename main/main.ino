@@ -21,7 +21,7 @@
 
 
 #define BTN_UP 45
-#define BTN_DOWN 19
+#define BTN_DOWN 46
 #define BTN_LEFT 47
 #define BTN_RIGHT 48
 
